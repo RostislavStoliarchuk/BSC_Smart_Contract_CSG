@@ -1,9 +1,4 @@
 
-// SPDX-License-Identifier: MIT
-// Sources flattened with hardhat v2.7.0 https://hardhat.org
-// @dev TG: defi_guru
-// File @openzeppelin/contracts/token/ERC20/IERC20.sol@v4.4.0
-// OpenZeppelin Contracts v4.4.0 (token/ERC20/IERC20.sol)
 
 pragma solidity ^0.8.7;
 
